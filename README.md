@@ -1,5 +1,5 @@
 # PSDV-Assignment-3
 
-Download all the files and store them at the same location as the .ipynb file\\
+Download all the files and store them at the same location as the .ipynb file \
 Upload the data sets given in the assignment
 
